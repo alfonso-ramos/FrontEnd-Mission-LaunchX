@@ -2,7 +2,7 @@
 
 - **Practicas**
 
-  - Toma de requerimientos()
+  - [Toma de requerimientos](https://github.com/alfonso-ramos/FrontEnd-Mission-LaunchX/blob/master/1.-Reqierimientos.doc)
   - [Crea tu buyer persona](./buyerPersona.md)
   - [Publico objetivo](https://miro.com/welcomeonboard/dHV6bnlTQ0FSNXBvaWhxR2JraDBSZHRPUmxPbUdhRWUwb004NmlEVmhiTGU0WEltMVZwMXBnMHZKeGljNFp2U3wzNDU4NzY0NTE5MzMxMzU1Njc0?invite_link_id=271137437579)
   - [Crea tu primer Wireframe UX](./Wireframe.md)
